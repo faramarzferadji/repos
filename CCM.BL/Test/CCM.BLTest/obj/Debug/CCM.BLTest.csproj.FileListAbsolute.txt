@@ -1,0 +1,16 @@
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\CCM.BLTest.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\CCM.BLTest.pdb
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\CCM.BL.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\CCM.BL.pdb
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\obj\Debug\CCM.BLTest.csprojAssemblyReference.cache
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\obj\Debug\CCM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\obj\Debug\CCM.BLTest.csproj.CopyComplete
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\obj\Debug\CCM.BLTest.dll
+C:\Users\ferad\source\repos\CCM.BL\Test\CCM.BLTest\obj\Debug\CCM.BLTest.pdb

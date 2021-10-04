@@ -1,0 +1,6 @@
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\bin\Debug\CCM.BL.dll
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\bin\Debug\CCM.BL.pdb
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\obj\Debug\CCM.BL.csprojAssemblyReference.cache
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\obj\Debug\CCM.BL.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\obj\Debug\CCM.BL.dll
+C:\Users\ferad\source\repos\CCM.BL\CCM.BL\obj\Debug\CCM.BL.pdb
